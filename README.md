@@ -6,8 +6,13 @@ Learn the basics of JavaScript. No previous programming experience required.
 
 > npm install -g javascripting
 
-## [TODO] Scope Chains & Closures
+## [DONE] Scope Chains & Closures
 Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
 
 > npm install -g scope-chains-closures
+
+## [TODO] learnyounode
+Learn the basics of node: asynchronous i/o, http.
+
+> npm install -g learnyounode
 
