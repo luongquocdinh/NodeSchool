@@ -20,3 +20,8 @@ Learn the basics of node: asynchronous i/o, http.
 Learn the basics of the Express.js framework.
 
 > npm install -g expressworks
+
+## [TODO] promise-it-wont-hurt
+Learn to use promises in JavaScript to handle async operations.
+
+> npm install -g promise-it-wont-hurt
