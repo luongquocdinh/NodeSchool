@@ -26,7 +26,7 @@ Learn to use promises in JavaScript to handle async operations.
 
 > npm install -g promise-it-wont-hurt
 
-## [TODO] async-you
+## [DONE] async-you
 Learn to use the async package.
 
 > npm install -g async-you
